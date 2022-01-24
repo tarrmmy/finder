@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: white;
+}
+
+.button {
+    height: 65px;
+    width: 350px;
+    background-color: rgb(21, 136, 165);
+    border: none;
+    border-radius: 3px;
+    color: white;
+    align-items: center;
+    margin: 30px 0px;
+}
+
+.button:hover {
+    background-color: rgb(14, 139, 77);
+}
+
+.head {
+    font-size: 42px;
+}
+
+.text {
+    font-size: 16px;
+    color: #6C6C6C;
+    font-family: Arial, Helvetica, sans-serif;
+}
