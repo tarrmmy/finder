@@ -1,4 +1,14 @@
-#Nav {
+* {
     color: white;
-    font-size: 15px;
+}
+
+/* .navbar {
+    justify-content: start;
+    font-size: 30px;
+    margin-left: 20px;
+} */
+
+.nav {
+    font-size: 30px;
+    margin-left: 20px;
 }
