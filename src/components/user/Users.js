@@ -13,7 +13,7 @@ const Users = ({users, loading})=> {
         <UserItem key={user.id} user={user}/>
        
      ))}
-    </div>
+    </div>  
     );
   }
 }
